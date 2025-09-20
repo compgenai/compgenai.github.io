@@ -1,10 +1,11 @@
 # site properties and page defaults
 title: CompGenAI Laboratory
 subtitle: at the Inha University
-description: Computational Genomics & AI Lab at Dept of Biological Science of Inha Univ
-header: images/background.jpg
-footer: images/background.jpg
-proofer: false
+description: computational genomics ·
+logo-text: true
+header: none
+header-dark: false
+footer: none
 
 # site social media and other links
 links:
@@ -43,11 +44,11 @@ collections:
 
 # jekyll plugins
 plugins:
-  - jekyll-spaceship
+  #- jekyll-spaceship
   - jekyll-sitemap
   - jekyll-redirect-from
   - jekyll-feed
-  - jekyll-last-modified-at
+  #- jekyll-last-modified-at
 
 # code block syntax highlighting
 highlighter: rouge
