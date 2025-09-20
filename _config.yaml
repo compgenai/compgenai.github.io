@@ -4,8 +4,9 @@ subtitle: at the Inha University
 description: 
 logo-text: true
 header: images/background.jpg
-header-dark: false
-footer: none
+footer: images/background.jpg
+header-dark: images/background.jpg
+footer-dark: images/background.jpg
 
 # site social media and other links
 links:
