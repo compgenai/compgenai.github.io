@@ -11,7 +11,7 @@ title: Home
 
 {% include section.html %}
 
-At the Computational Genomics & AI Lab, we develop machine learning models that predict gene expression and phenotypic outcomes directly from sequence information—advancing the field of sequence-to-function prediction. Our work centers on single-cell and population-scale omics data, which we integrate with genomic sequence features to uncover the molecular mechanisms underlying complex diseases.
+The Computational Genomics & AI Lab at Inha University develops machine learning models to decode the functional regulatory logic embedded in DNA sequence, with applications spanning human complex diseases and synthetic biology. We focus on building interpretable, high-resolution frameworks that connect genetic variation to function and phenotype across both single-cell and population-level data.
 
 {:.center} 
 
