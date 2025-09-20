@@ -1,81 +1,33 @@
 ---
+title: Home
 ---
 
-# compgenai's Website
+# COMPUTATIONAL GENOMICS · MACHINE LEARNING · CLINICAL BIOINFORMATICS
 
-An engaging 1-3 sentence description of your lab.
+
+{:.center}
+
+{% include section.html full=true %}
+
+{% include banner.html image="images/action/solitude_cropped.jpg" %}
 
 {% include section.html %}
 
-## Highlights
+At the Computational Genomics & AI Lab, we develop machine learning models that predict gene expression and phenotypic outcomes directly from sequence information—advancing the field of sequence-to-function prediction. Our work centers on single-cell and population-scale omics data, which we integrate with genomic sequence features to uncover the molecular mechanisms underlying complex diseases.
 
-{% capture text %}
+{:.center} 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+[Our research](research)
 
-{%
-  include button.html
-  link="research"
-  text="See our publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
+{:.center} 
 
 {%
-  include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title="Our Research"
-  text=text
+  include gallery.html
+  image1="images/action/research_rep.jpg"
+  link1="research"
+  tooltip1="Our research"
+  image2="images/action/students.jpg"
+  link2="opportunities"
+  tooltip2="Join us!"
 %}
 
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="projects"
-  text="Browse our projects"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
-  flip=true
-  style="bare"
-  text=text
-%}
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="team"
-  text="Meet our team"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
-  text=text
-%}
