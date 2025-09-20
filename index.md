@@ -18,14 +18,3 @@ At the Computational Genomics & AI Lab, we develop machine learning models that 
 [Our research](research)
 
 {:.center} 
-
-{%
-  include gallery.html
-  image1="images/action/research_rep.jpg"
-  link1="research"
-  tooltip1="Our research"
-  image2="images/action/students.jpg"
-  link2="opportunities"
-  tooltip2="Join us!"
-%}
-
