@@ -2,9 +2,6 @@
 title: Home
 ---
 
-{:.center}
-### COMPUTATIONAL GENOMICS · MACHINE LEARNING · CLINICAL BIOINFORMATICS
-
 {% include section.html %}
 
 {:.center}
