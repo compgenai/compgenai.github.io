@@ -8,7 +8,9 @@
     - type: website
       text: Journal
       link: https://onlinelibrary.wiley.com/doi/10.1111/acel.70193
-      
+  tags:
+    - highlighted
+    
 - id: doi:10.1016/j.mocell.2024.100011
   type: paper
   date: 2024-01-17
@@ -30,7 +32,9 @@
     - type: website
       text: Journal
       link: https://www.cell.com/cell-reports/fulltext/S2211-1247(23)01363-3
-
+  tags:
+    - highlighted
+    
 - id: doi:10.1016/j.patter.2023.100736
   type: paper
   date: 2023-04-20
@@ -52,7 +56,9 @@
     - type: website
       text: Journal
       link: https://www.nature.com/articles/s41467-023-37691-7
-
+  tags:
+    - highlighted
+    
 - id: doi:10.1073/pnas.2212810119
   type: paper
   date: 2022-12-20
@@ -63,7 +69,9 @@
     - type: website
       text: Journal
       link: https://www.pnas.org/doi/abs/10.1073/pnas.2212810119
-
+  tags:
+    - highlighted
+    
 - id: doi:10.1016/j.isci.2022.105392
   type: paper
   date: 2022-11-18
@@ -107,7 +115,9 @@
     - type: website
       text: Journal
       link: https://www.nature.com/articles/s41467-020-19313-8
-
+  tags:
+    - highlighted
+    
 - id: doi:10.1038/s41467-020-18155-8
   type: paper
   date: 2020-08-31
@@ -118,7 +128,9 @@
     - type: website
       text: Journal
       link: https://www.nature.com/articles/s41467-020-18155-8
-
+  tags:
+    - highlighted
+    
 - id: doi:10.1038/s41598-019-57187-z
   type: paper
   date: 2020-01-14
@@ -195,7 +207,9 @@
     - type: website
       text: Journal
       link: https://academic.oup.com/mbe/article/35/7/1653/4956777
-
+  tags:
+    - highlighted
+    
 - id: doi:10.1016/j.bbamcr.2016.10.008
   type: paper
   date: 2017-01-31
@@ -217,7 +231,9 @@
     - type: website
       text: Journal
       link: https://www.oncotarget.com/article/11269/text/
-
+  tags:
+    - highlighted
+    
 - id: doi:10.1128/mbio.00019-16
   type: paper
   date: 2016-05-04
@@ -239,7 +255,9 @@
     - type: website
       text: Journal
       link: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0136300
-
+  tags:
+    - highlighted
+    
 - id: doi:10.1073/pnas.1505451112
   type: paper
   date: 2015-07-20
@@ -327,3 +345,6 @@
     - type: website
       text: Journal
       link: https://academic.oup.com/nar/article/38/suppl_2/W450/1101081
+  tags:
+    - highlighted
+    
