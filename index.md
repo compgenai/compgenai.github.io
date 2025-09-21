@@ -13,5 +13,10 @@ The Computational Genomics & AI Lab at Inha University develops machine learning
 {% include section.html %}
 
 {:.center}
+
+{% capture col1 %}
 {% include figure.html image="images/action/main_pic1.png" caption="Our Research" link="research" width="45%" %}
+{% endcapture %}
+{% capture col2 %}
 {% include figure.html image="images/action/main_pic2.png" caption="Contact us!" link="contact" width="45%" %}
+{% endcapture %}
