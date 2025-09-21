@@ -1,329 +1,329 @@
 - id: doi:10.1111/acel.70193
   type: paper
-  date: 2025-08
+  date: 2025-08-14
   description: >
     T-CLASS is an online tool that identifies gene sets from transcriptome data to optimally represent longevity and aging paradigms. It shows robust classification performance across multiple datasets and successfully detects transcriptomic changes induced by lifespan-extending molecules, with experimental validation for rifampicin and atracurium.
   #image: images/papers/10.1111_acel.70193_image.jpg
   buttons:
     - type: website
-      text: Journal site
+      text: Journal
       link: https://onlinelibrary.wiley.com/doi/10.1111/acel.70193
       
 - id: doi:10.1016/j.mocell.2024.100011
   type: paper
-  date: 2024-02
+  date: 2024-01-17
   description: >
     OASIS portable is an offline, user-friendly suite for secure survival analysis, eliminating the need to upload data to online servers. It provides a virtualized version of the OASIS 2 webserver on personal computers, ensuring both accessibility and data security without requiring internet access.
   #image: images/papers/10.1016_j.mocell.2024.100011_image.jpg
   buttons:
     - type: website
-      text: Journal site
+      text: Journal
       link: https://www.sciencedirect.com/science/article/pii/S1016847824000049
 
 - id: doi:10.1016/j.celrep.2023.113351
   type: paper
-  date: 2023-11
+  date: 2023-11-28
   description: >
     This study integrates GWAS, multiomics data, and machine learning to dissect the regulatory basis of blood pressure heritability. It identifies ~500,000 predicted regulatory variants across kidney, adrenal, heart, and artery tissues, showing that enhancer variants in tissue-relevant regulatory networks are major drivers of interindividual blood pressure variation.
   #image: images/papers/10.1016_j.celrep.2023.113351_image.jpg
   buttons:
     - type: website
-      text: Journal site
+      text: Journal
       link: https://www.cell.com/cell-reports/fulltext/S2211-1247(23)01363-3
 
 - id: doi:10.1016/j.patter.2023.100736
   type: paper
-  date: 2023-06
+  date: 2023-04-20
   description: >
     This study presents a method that integrates immune cell proportion data with clinical information to improve recurrence risk prediction in colorectal cancer. Validated in two independent patient cohorts of different races, the approach enhances predictive accuracy and highlights potential therapeutic targets linked to immune cell dynamics.
   #image: images/papers/10.1016_j.patter.2023.100736_image.jpg
   buttons:
     - type: website
-      text: Journal site
+      text: Journal
       link: https://www.sciencedirect.com/science/article/pii/S2666389923000764?via%3Dihub
 
 - id: doi:10.1038/s41467-023-37691-7
   type: paper
-  date: 2023-04
+  date: 2023-04-19
   description: >
     This study maps high-resolution kidney eQTLs using glomerular and tubulointerstitial biopsy samples integrated with single-nucleus open chromatin data. By applying Bayesian fine-mapping with an integrative prior, the work improves variant resolution, strengthens GWAS colocalization, and experimentally validates regulatory variants influencing kidney traits.
   #image: images/papers/10.1038_s41467-023-37691-7_image.jpg
   buttons:
     - type: website
-      text: Journal site
+      text: Journal
       link: https://www.nature.com/articles/s41467-023-37691-7
 
 - id: doi:10.1073/pnas.2212810119
   type: paper
-  date: 2022-12
+  date: 2022-12-20
   description: >
     This work introduces gkmQC, a sequence-based machine learning framework for assessing and refining chromatin accessibility data quality. gkmQC effectively identifies high-quality samples, optimizes peak-calling thresholds, and improves the detection of functional regulatory elements, particularly enhancing insights for rare cell types in single-cell data.
   #image: images/papers/10.1073_pnas.2212810119_image.jpg
   buttons:
     - type: website
-      text: Journal site
+      text: Journal
       link: https://www.pnas.org/doi/abs/10.1073/pnas.2212810119
 
 - id: doi:10.1016/j.isci.2022.105392
   type: paper
-  date: 2022-11
+  date: 2022-11-18
   description: >
     This study shows that deconvolving bulk colorectal tumors into two immune cell states—cancer-associated and noncancer-associated—improves recurrence prediction. The approach outperforms traditional clinical and molecular predictors, underscoring the importance of distinguishing immune cell states to better explain recurrence risk.
   #image: images/papers/10.1016_j.isci.2022.105392_image.jpg
   buttons:
     - type: website
-      text: Journal site
+      text: Journal
       link: https://www.cell.com/iscience/fulltext/S2589-0042(22)01664-9
 
 - id: doi:10.1093/nar/gkac050
   type: paper
-  date: 2022-02
+  date: 2022-02-28
   description: >
     This study systematically investigates the evolutionary divergence of transcription factor–target gene networks between humans and mice. It shows that regulatory network rewiring contributes to phenotypic differences of orthologous genes, emphasizing the need to consider species-specific regulation when interpreting mouse models of human disease.
   #image: images/papers/10.1093_nar_gkac050_image.jpg
   buttons:
     - type: website
-      text: Journal site
+      text: Journal
       link: https://academic.oup.com/nar/article/50/4/1849/6523801
 
 - id: doi:10.1126/sciadv.abj8156
   type: paper
-  date: 2021-12
+  date: 2021-12-03
   description: >
     This study identifies MON-2, a Golgi protein, as a key mediator of autophagy-dependent longevity in C. elegans. MON-2, along with DOP1/PAD-1, promotes trafficking between the Golgi and endosome and activates the autophagy protein GABARAP/LGG-1, with conserved roles observed in mammalian cells linking Golgi function to lifespan regulation.
   #image: images/papers/10.1126_sciadv.abj8156_image.jpg
   buttons:
     - type: website
-      text: Journal site
+      text: Journal
       link: https://www.science.org/doi/full/10.1126/sciadv.abj8156
-
-- id: doi:10.1111/ppl.13052
-  type: paper
-  date: 2021-07
-  description: >
-    This phylogenetic study reveals massive duplication of ABCG subfamily proteins in both land plants and oomycete pathogens, suggesting coevolution. Functional evidence shows that plant ABCGs, such as AtABCG31, contribute to defense against pathogens, highlighting an evolutionary arms race involving secondary metabolite transport.
-  #image: images/papers/10.1111_ppl.13052_image.jpg
-  buttons:
-    - type: website
-      text: Journal site
-      link: https://onlinelibrary.wiley.com/doi/full/10.1111/ppl.13052
 
 - id: doi:10.1038/s41467-020-19313-8
   type: paper
-  date: 2020-10
+  date: 2020-10-30
   description: >
     This study introduces a network-based machine learning framework that leverages pharmacogenomic data from 3D organoid models to predict anti-cancer drug efficacy. The approach identifies robust transcriptomic biomarkers that accurately forecast patient responses to 5-fluorouracil in colorectal cancer and cisplatin in bladder cancer, validated across independent datasets.
   #image: images/papers/10.1038_s41467-020-19313-8_image.jpg
   buttons:
     - type: website
-      text: Journal site
+      text: Journal
       link: https://www.nature.com/articles/s41467-020-19313-8
 
 - id: doi:10.1038/s41467-020-18155-8
   type: paper
-  date: 2020-08
+  date: 2020-08-31
   description: >
     This study uses single-cell RNA sequencing to reveal that iNKT, MAIT, and γδ T cells undergo shared, branched differentiation pathways in the thymus. Clonal selection accompanies their maturation, and functional experiments confirm transcription factor dependencies, highlighting conserved effector differentiation processes in both mice and humans.
   #image: images/papers/10.1038_s41467-020-18155-8_image.jpg
   buttons:
     - type: website
-      text: Journal site
+      text: Journal
       link: https://www.nature.com/articles/s41467-020-18155-8
 
 - id: doi:10.1038/s41598-019-57187-z
   type: paper
-  date: 2020-01
+  date: 2020-01-14
   description: >
     This work introduces domain-mediated interactions (DMIs) as a basis for defining protein subfamilies within larger families. By linking shared domains with interaction partners, the study shows that DMI subfamilies correlate with disease associations in humans and phenotypic outcomes in yeast, offering a network-based framework for functional protein annotation.
   #image: images/papers/10.1038_s41598-019-57187-z_image.jpg
   buttons:
     - type: website
-      text: Journal site
+      text: Journal
       link: https://www.nature.com/articles/s41598-019-57187-z
+
+- id: doi:10.1111/ppl.13052
+  type: paper
+  date: 2019-12-11
+  description: >
+    This phylogenetic study reveals massive duplication of ABCG subfamily proteins in both land plants and oomycete pathogens, suggesting coevolution. Functional evidence shows that plant ABCGs, such as AtABCG31, contribute to defense against pathogens, highlighting an evolutionary arms race involving secondary metabolite transport.
+  #image: images/papers/10.1111_ppl.13052_image.jpg
+  buttons:
+    - type: website
+      text: Journal
+      link: https://onlinelibrary.wiley.com/doi/full/10.1111/ppl.13052
 
 - id: doi:10.1016/j.clim.2019.07.010
   type: paper
-  date: 2019-10
+  date: 2019-10-01
   description: >
     This genetic association study in Korean patients with Sjögren's syndrome identifies novel susceptibility loci, including PRAMEF13, TARBP1, and UGT2B28, in addition to confirming known genes such as MSH5 and RELN. The results provide new insights into immune-related pathways contributing to Sjögren's syndrome in the Korean population.
   #image: images/papers/10.1016_j.clim.2019.07.010_image.jpg
   buttons:
     - type: website
-      text: Journal site
+      text: Journal
       link: https://www.sciencedirect.com/science/article/pii/S1521661619302657
 
 - id: doi:10.1093/nar/gkz536
   type: paper
-  date: 2019-09
+  date: 2019-09-19
   description: >
     This study introduces an evolutionary coupling analysis method to identify disease-associated variants (DVs) at less-conserved sites. By capturing compensatory interactions at functionally important positions, the approach reveals impactful variants missed by conservation-based methods, particularly at protein interaction interfaces with species-specific adaptations.
   #image: images/papers/10.1093_nar_gkz536_image.jpg
   buttons:
     - type: website
-      text: Journal site
+      text: Journal
       link: https://academic.oup.com/nar/article/47/16/e94/5519167
 
 - id: doi:10.1038/s41598-019-48273-3
   type: paper
-  date: 2019-08
+  date: 2019-08-12
   description: >
     This study proposes link clustering as a network-based measure to identify contextually essential genes (EGs) in protein-protein interaction networks. The analysis shows that many non-central EGs, often overlooked by centrality measures, display variable essentiality across conditions, linking local network structure to functional importance.
   image: images/papers/10.1038_s41598-019-48273-3_image.jpg
   buttons:
     - type: website
-      text: Journal site
+      text: Journal
       link: https://www.nature.com/articles/s41598-019-48273-3#Abs1
 
 - id: doi:10.1111/odi.13093
   type: paper
-  date: 2019-07
+  date: 2019-03-19
   description: >
     This study integrates exome sequencing and RNA-seq to uncover the genetic basis of hereditary gingival fibromatosis (HGF). By connecting exomic and transcriptomic alterations through regulatory network analysis, it highlights TGF-β/SMAD signaling and craniofacial development pathways, providing insight into fibroblast overgrowth mechanisms in HGF.
   image: images/papers/10.1111_odi.13093_image.jpg
   buttons:
     - type: website
-      text: Journal site
+      text: Journal
       link: https://onlinelibrary.wiley.com/doi/full/10.1111/odi.13093
 
 - id: doi:10.1093/molbev/msy056
   type: paper
-  date: 2018-05
+  date: 2018-04-24
   description: >
     This study demonstrates that gene–phenotype differences between human and mouse orthologs are largely explained by divergence in noncoding regulatory elements and tissue-specific expression, rather than protein-coding changes. Using semantic similarity and transcriptomic analysis, it emphasizes evolutionary context for accurate interpretation of model organism data.
   #image: images/papers/10.1093_molbev_msy056_image.jpg
   buttons:
     - type: website
-      text: Journal site
+      text: Journal
       link: https://academic.oup.com/mbe/article/35/7/1653/4956777
 
 - id: doi:10.1016/j.bbamcr.2016.10.008
   type: paper
-  date: 2017-01
+  date: 2017-01-31
   description: >
     This study shows that the γ2-herpesviral GPCR from Herpesvirus saimiri constitutively activates T cells through heteromeric interaction with cellular CXCR4. The mechanism is independent of proximal TCR signaling, highlighting how viral GPCR–CXCR4 cooperativity underlies persistent signaling and contributes to herpesviral pathogenesis.
   #image: images/papers/10.1016_j.bbamcr.2016.10.008_image.jpg
   buttons:
     - type: website
-      text: Journal site
+      text: Journal
       link: https://www.sciencedirect.com/science/article/pii/S0167488916302622
 
 - id: doi:10.18632/oncotarget.11269
   type: paper
-  date: 2016-08
+  date: 2016-08-30
   description: >
     This paper introduces OASIS 2, an updated online platform for survival analysis with enhanced statistical tools and user interface. It supports maximal lifespan and healthspan analysis, enabling comparison of age-associated physiological changes, and serves as a comprehensive resource for aging research.
   #image: images/papers/10.18632_oncotarget.11269_image.jpg
   buttons:
     - type: website
-      text: Journal site
+      text: Journal
       link: https://www.oncotarget.com/article/11269/text/
 
 - id: doi:10.1128/mbio.00019-16
   type: paper
-  date: 2016-03
+  date: 2016-05-04
   description: >
     This study reports the emergence of mutant MERS-CoV strains during the 2015 South Korean outbreak with reduced affinity to the human CD26 receptor. Genomic and functional analyses reveal that mutations in the spike protein receptor-binding domain impair viral entry and fitness, suggesting adaptation driven by host immune pressure rather than enhanced receptor binding.
   #image: images/papers/10.1128_mbio.00019-16_image.jpg
   buttons:
     - type: website
-      text: Journal site
+      text: Journal
       link: https://journals.asm.org/doi/full/10.1128/mbio.00019-16
 
 - id: doi:10.1371/journal.pone.0136300
   type: paper
-  date: 2015-08
+  date: 2015-08-24
   description: >
     This study constructs a cross-species genotype–phenotype map to explain clinical severity in human diseases. By integrating essential gene data from model organisms, the work shows that diseases enriched with essential genes exhibit higher mortality, multiple comorbidities, and pleiotropy, providing insights into disease progression and gene–disease associations.
   #image: images/papers/10.1371_journal.pone.0136300_image.jpg
   buttons:
     - type: website
-      text: Journal site
+      text: Journal
       link: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0136300
 
 - id: doi:10.1073/pnas.1505451112
   type: paper
-  date: 2015-07
+  date: 2015-07-20
   description: >
     This study identifies the RNA helicase HEL-1 as a regulator of longevity in C. elegans by specifically activating the DAF-16/FOXO signaling pathway. HEL-1 is essential for lifespan extension under reduced insulin/IGF-1 signaling and functions as a co-regulator of DAF-16 target genes, suggesting conserved mechanisms for RNA helicases in mammalian aging.
   #image: images/papers/10.1073_pnas.1505451112_image.jpg
   buttons:
     - type: website
-      text: Journal site
+      text: Journal
       link: https://www.pnas.org/doi/abs/10.1073/pnas.1505451112
 
 - id: doi:10.1371/journal.pcbi.1003881
   type: paper
-  date: 2014-10
+  date: 2014-10-09
   description: >
     This study shows that weak domain–linear motif interactions (DLIs) preferentially connect different biological modules in protein–protein interaction networks, in contrast to strong domain–domain interactions. DLIs act as evolutionary switches that facilitate modularity, rewiring, and functional innovation in complex eukaryotic networks.
   #image: images/papers/10.1371_journal.pcbi.1003881_image.jpg
   buttons:
     - type: website
-      text: Journal site
+      text: Journal
       link: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003881
 
 - id: doi:10.1107/S0907444913022701
   type: paper
-  date: 2013-12
+  date: 2013-12-01
   description: >
     This study reports the structure of a fusion protein combining the heterodimeric flagella-assembly proteins FliS and FliC, showing discrepancies with threading-based structural predictions. By comparing with naturally occurring homologous fusions, it highlights how domain fusion informs protein evolution and can improve structure prediction methods.
   #image: images/papers/10.1107_S0907444913022701_image.jpg
   buttons:
     - type: website
-      text: Journal site
+      text: Journal
       link: https://journals.iucr.org/paper?cnor=yt5059&buy=yes
 
 - id: doi:10.1371/journal.pcbi.1002997
   type: paper
-  date: 2013-03
+  date: 2013-03-21
   description: >
     This study shows that extramembrane domains are frequently exchanged between membrane and soluble proteins, with 67% of soluble domains structurally resembling known soluble proteins and 41% of soluble proteins sharing domains with membrane proteins. These exchanges enhance functional complexity, particularly in eukaryotes, and provide resources for predicting membrane protein function.
   #image: images/papers/10.1371_journal.pcbi.1002997_image.jpg
   buttons:
     - type: website
-      text: Journal site
+      text: Journal
       link: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002997
 
 - id: doi:10.1038/srep00900
   type: paper
-  date: 2012-11
+  date: 2012-11-29
   description: >
     This study demonstrates that network rewiring is a key mechanism driving changes in gene essentiality between species. Comparative analysis of yeast and mouse shows that nonessential yeast genes become essential in mouse through increased network connectivity in protein complexes, reinforcing the centrality-lethality rule in evolutionary contexts.
   #image: images/papers/10.1038_srep00900_image.jpg
   buttons:
     - type: website
-      text: Journal site
+      text: Journal
       link: https://www.nature.com/articles/srep00900#citeas
 
 - id: doi:10.1002/pro.2157
   type: paper
-  date: 2012-09
+  date: 2012-11-01
   description: >
     This study compares structural features of mesophilic and thermophilic membrane proteins, revealing increased hydrophobicity of transmembrane helices in thermophiles. The analysis highlights evolutionary pressures to reduce polar and thermally sensitive residues, enhancing membrane partitioning and stability at high temperatures.
   #image: images/papers/10.1002_pro.2157_image.jpg
   buttons:
     - type: website
-      text: Journal site
+      text: Journal
       link: https://onlinelibrary.wiley.com/doi/full/10.1002/pro.2157
 
 - id: doi:10.1371/journal.pone.0023525
   type: paper
-  date: 2011-08
+  date: 2011-08-15
   description: >
     This paper presents OASIS, an online application for survival analysis tailored to aging research. It provides Kaplan–Meier estimates, statistical tests, and visualizations such as survival and hazard plots, enabling efficient interpretation of lifespan assays and comparative survival data.
   #image: images/papers/10.1371_journal.pone.0023525_image.jpg
   buttons:
     - type: website
-      text: Journal site
+      text: Journal
       link: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0023525
 
 - id: doi:10.1093/nar/gkq328
   type: paper
-  date: 2010-04
+  date: 2010-04-30
   description: >
     This paper introduces ConPlex, a web server for evolutionary conservation analysis of protein complex structures. It identifies protein interfaces, evaluates residue-specific conservation, and visualizes conserved regions on 3D structures, providing a convenient tool for studying protein–protein interactions and distinguishing biologically relevant interfaces.
   #image: images/papers/10.1093_nar_gkq328_image.jpg
   buttons:
     - type: website
-      text: Journal site
+      text: Journal
       link: https://academic.oup.com/nar/article/38/suppl_2/W450/1101081
