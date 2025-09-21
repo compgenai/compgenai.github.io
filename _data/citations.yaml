@@ -1,222 +1,163 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1101/2025.06.19.660613
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+- id: doi:10.1101/2022.04.19.488795
+  title: Tissue-specific and tissue-agnostic effects of genome sequence variation
+    modulating blood pressure
   authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
+  - Dongwon Lee
+  - Seong Kyu Han
+  - Or Yaacov
+  - Hanna Berk-Rauch
+  - Prabhu Mathiyalagan
+  - Santhi K. Ganesh
+  - Aravinda Chakravarti
   publisher: Cold Spring Harbor Laboratory
-  date: '2025-06-25'
-  link: https://doi.org/g9rfr3
-  orcid: 0000-0002-4655-3773
+  date: '2022-04-20'
+  link: https://doi.org/gpzm3c
+  orcid: 0000-0001-9312-2864
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1093/nar/gkac050
+  title: Evolutionary rewiring of regulatory networks contributes to phenotypic differences
+    between human and mouse orthologous genes
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
+  - Doyeon Ha
+  - Donghyo Kim
+  - Inhae Kim
+  - Youngchul Oh
+  - JungHo Kong
+  - "Seong\_Kyu Han"
+  - Sanguk Kim
   publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  date: '2022-02-07'
+  link: https://doi.org/gtsx5v
+  orcid: 0000-0001-9312-2864
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.1101/2022.02.24.481844
+  title: Quality assessment and refinement of chromatin accessibility data using a
+    sequence-based predictive model
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
+  - Seong Kyu Han
+  - Yoshiharu Muto
+  - Parker C. Wilson
+  - Aravinda Chakravarti
+  - Benjamin D. Humphreys
+  - Matthew G. Sampson
+  - Dongwon Lee
   publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  date: '2022-02-25'
+  link: https://doi.org/gsx48p
+  orcid: 0000-0001-9312-2864
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1126/sciadv.abj8156
+  title: "MON-2, a Golgi protein, mediates autophagy-dependent longevity in\n    \
+    \        <i>Caenorhabditis elegans</i>"
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Yoonji Jung
+  - Murat Artan
+  - Nari Kim
+  - Jeonghun Yeom
+  - Ara B. Hwang
+  - Dae-Eun Jeong
+  - "\xD6zlem Altintas"
+  - Keunhee Seo
+  - Mihwa Seo
+  - Dongyeop Lee
+  - Wooseon Hwang
+  - Yujin Lee
+  - Jooyeon Sohn
+  - Eun Ji E. Kim
+  - Sungeun Ju
+  - Seong Kyu Han
+  - Hyun-Jun Nam
+  - Linnea Adams
+  - Youngjae Ryu
+  - Dong Jin Moon
+  - Chanhee Kang
+  - Joo-Yeon Yoo
+  - Sang Ki Park
+  - Chang Man Ha
+  - Malene Hansen
+  - Sanguk Kim
+  - Cheolju Lee
+  - Seung-Yeol Park
+  - Seung-Jae V. Lee
+  publisher: Science Advances
+  date: '2021-12-03'
+  link: https://doi.org/gnpnx6
+  orcid: 0000-0001-9312-2864
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1038/s41467-020-19313-8
+  title: Network-based machine learning in colorectal and bladder organoid models
+    predicts anti-cancer drug efficacy in patients
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - JungHo Kong
+  - Heetak Lee
+  - Donghyo Kim
+  - Seong Kyu Han
+  - Doyeon Ha
+  - Kunyoo Shin
+  - Sanguk Kim
+  publisher: Nature Communications
+  date: '2020-10-30'
+  link: https://doi.org/gh33cn
+  orcid: 0000-0001-9312-2864
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1038/s41467-020-18155-8
+  title: Single-cell RNA sequencing identifies shared differentiation paths of mouse
+    thymic innate T cells
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - Minji Lee
+  - Eunmin Lee
+  - Seong Kyu Han
+  - Yoon Ha Choi
+  - Dong-il Kwon
+  - Hyobeen Choi
+  - Kwanghwan Lee
+  - Eun Seo Park
+  - Min-Seok Rha
+  - Dong Jin Joo
+  - Eui-Cheol Shin
+  - Sanguk Kim
+  - Jong Kyoung Kim
+  - You Jeong Lee
+  publisher: Nature Communications
+  date: '2020-08-31'
+  link: https://doi.org/gh53qt
+  orcid: 0000-0001-9312-2864
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.1111/odi.13093
+  title: Exomic and transcriptomic alterations of hereditary gingival fibromatosis
   authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  - Seong Kyu Han
+  - Jungho Kong
+  - Sanguk Kim
+  - "Jae\u2010Hoon Lee"
+  - "Dong\u2010Hoo Han"
+  publisher: Oral Diseases
+  date: '2019-04-15'
+  link: https://doi.org/g9384d
+  orcid: 0000-0001-9312-2864
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1093/molbev/msy056
+  title: "Divergence of Noncoding Regulatory Elements Explains Gene\u2013Phenotype\
+    \ Differences between Human and Mouse Orthologous Genes"
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2019-06-24'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
+  - Seong Kyu Han
+  - Donghyo Kim
+  - Heetak Lee
+  - Inhae Kim
+  - Sanguk Kim
+  publisher: Molecular Biology and Evolution
+  date: '2018-04-24'
+  link: https://doi.org/gdd4g2
+  orcid: 0000-0001-9312-2864
   plugin: orcid.py
   file: orcid.yaml
 - id: 10.1111/acel.70193
